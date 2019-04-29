@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\klsla\source\repos\final\blackjackdb\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\klsla\source\repos\final\blackjackdb\main.cpp(72): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\klsla\source\repos\final\blackjackdb\main.cpp(72): warning C4309: 'argument': truncation of constant value
+  BlackJackDB.vcxproj -> C:\Users\klsla\source\repos\Final\Debug\BlackJack.exe
